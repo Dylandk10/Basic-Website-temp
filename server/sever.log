@@ -1,0 +1,24 @@
+
+Mon Jan 29 2018 18:14:28 GMT-0500 (EST): GET /playAgain?
+Mon Jan 29 2018 18:14:28 GMT-0500 (EST): GET /style.css
+Mon Jan 29 2018 18:14:28 GMT-0500 (EST): GET /js/script.js
+Mon Jan 29 2018 18:14:44 GMT-0500 (EST): GET /playAgain?
+Mon Jan 29 2018 18:14:44 GMT-0500 (EST): GET /style.css
+Mon Jan 29 2018 18:14:44 GMT-0500 (EST): GET /js/script.js
+Mon Jan 29 2018 18:22:38 GMT-0500 (EST): GET /playAgain?
+Mon Jan 29 2018 18:22:38 GMT-0500 (EST): GET /style.css
+Mon Jan 29 2018 18:22:38 GMT-0500 (EST): GET /js/script.js
+Wed Jan 31 2018 14:24:01 GMT-0500 (EST): GET /
+Wed Jan 31 2018 14:24:01 GMT-0500 (EST): GET /js/script2.js
+Wed Jan 31 2018 14:24:01 GMT-0500 (EST): GET /style.css
+Wed Jan 31 2018 14:24:01 GMT-0500 (EST): GET /pictures/logo-pic.png
+Wed Jan 31 2018 14:24:03 GMT-0500 (EST): GET /pictures/irish.png
+Wed Jan 31 2018 14:24:03 GMT-0500 (EST): GET /pictures/dice-game.png
+Wed Jan 31 2018 14:24:03 GMT-0500 (EST): GET /favicon.ico
+Wed Jan 31 2018 14:24:07 GMT-0500 (EST): GET /pictures/budget-app.png
+Wed Jan 31 2018 14:24:11 GMT-0500 (EST): GET /pictures/square-wars.png
+Wed Jan 31 2018 14:24:15 GMT-0500 (EST): GET /pictures/dice-game.png
+Wed Jan 31 2018 14:24:19 GMT-0500 (EST): GET /pictures/budget-app.png
+Wed Jan 31 2018 14:24:23 GMT-0500 (EST): GET /pictures/square-wars.png
+Wed Jan 31 2018 14:24:35 GMT-0500 (EST): GET /pictures/square-wars.png
+Wed Jan 31 2018 14:24:39 GMT-0500 (EST): GET /pictures/dice-game.png

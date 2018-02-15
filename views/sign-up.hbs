@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="/style.css" type="text/css" rel="stylesheet">
+    <title>websiteName</title>
+  </head>
+  <body>
+    {{> navbar}}
+
+    <div id="signup">
+      <h1>Sign Up!</h1>
+      <form action="http://127.0.0.1:3000/signup">
+
+        Name:<br><input name="name" type="text" /><br>
+        Email:<br><input name="email" type="text" /><br>
+        ScreenName:<br><input name="screenName" type="text" /><br>
+        Password:<br><input name="password" type="text" /><br>
+        <br>
+        <button id="sign-Btn" type="submit">Sign Up!</button>
+      </form>
+      <p class="sign-up-info">
+        Signing up for this site is strickly for test purposes, this is my portfolio site. If you wish to contact me you can do so without signing up. However if you would like to Sign-up feel free and check out some cool extra features.<br><br>
+        --K3LLY--
+    </div>
+    <footer>
+      <p class="date">Created By - Dylan Kelly, CopyRight {{getDate}} </p>
+    </footer>
+  </body>
+</html>
