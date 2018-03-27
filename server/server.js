@@ -39,7 +39,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use(express.static(__dirname + '/../views'));
+app.use(express.static(__dirname + '../../views'));
 //full year for footer
 hbs.registerHelper('getDate', () => {
   return new Date().getFullYear()
